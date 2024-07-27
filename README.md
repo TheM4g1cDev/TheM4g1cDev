@@ -5,10 +5,10 @@ I'm MagicDev also known as Slappy Or Task. I love coding and security.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheM4g1cDev&label=Profile%20views&color=0e75b6&style=flat" alt="Magic-Dev" /> </p>
 
 ## Skilled language programming
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,pytorch,nodejs,nextjs,js,php,ruby,rust,discordjs,lua,perl,ts,java,html,haskell&perline=5)]
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,pytorch,nodejs,nextjs,js,php,ruby,rust,discordjs,lua,perl,ts,java,html,haskell&perline=4)
 
 ## Extras
-![My Skills](https://skillicons.dev/icons?i=discord,bots,eclipse,dotnet,mysql,mongodb,sqlite,visualstudio,vscode,vue,windows,linux,kali,nginx,postman,powershell,raspberrypi&perline=5)
+![My Skills](https://skillicons.dev/icons?i=discord,bots,eclipse,dotnet,mysql,mongodb,sqlite,visualstudio,vscode,vue,windows,linux,kali,nginx,postman,powershell,raspberrypi&perline=4)
 
 ## What I'm currently doing?
 > After gaining knowledge in the areas of programming, I started in (web and mobile development) and continue to learn on my own.
